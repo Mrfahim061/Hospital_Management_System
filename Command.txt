@@ -1,0 +1,35 @@
+cd C:\Users\Fahim\OneDrive\Desktop\Fahim\backend
+node server.js
+
+cd C:\Users\Fahim\OneDrive\Desktop\v4\backend
+node server.js
+
+cd C:\Users\Fahim\OneDrive\Desktop\Fahim\frontend
+npm start
+
+cd C:\Users\Fahim\OneDrive\Desktop\v4\frontend
+npm start
+
+patient@hospital.com
+patient123
+
+doctor@hospital.com
+doctor123
+
+fahim1915021@stud.kuet.ac.bd
+fahim1915021
+
+
+mrfahim061@gmail.com
+mrfahim061
+
+
+
+192.204.1.107
+
+drsahabuddinkhan@hotmail.com
+doctor123
+
+
+patient(n)@hospital.com
+patient123
